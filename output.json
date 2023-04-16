@@ -1,0 +1,36 @@
+{
+  "counseling": "I hear that you have been feeling burnt out lately and that it's affecting your mood at home. It's understandable to feel self-doubt and low self-esteem when we are constantly under stress. However, it's important to remember that you are not defined by your work or any external factors. You are inherently valuable and worthy. Let's work together to help you feel more grounded and confident.",
+  "tools": [
+    {
+      "name": "practice_affirmation",
+      "prompt": "I suggest practicing affirmations to help boost your self-esteem. Repeat the following affirmations to yourself every morning: 'I am capable and competent', 'I am deserving of love and respect', 'I am worthy of success and happiness'.",
+      "meta": {
+        "affirmations": [
+          "I am capable and competent",
+          "I am deserving of love and respect",
+          "I am worthy of success and happiness"
+        ]
+      }
+    },
+    {
+      "name": "guided_journaling",
+      "prompt": "Journaling can be a helpful tool to explore your feelings of self-doubt and low self-esteem. Take some time every day to write down your thoughts and feelings. Start by answering the following prompts: 'What are some negative beliefs I have about myself?', 'Where do these beliefs come from?', 'What evidence do I have to support or refute these beliefs?'",
+      "meta": null
+    },
+    {
+      "name": "practice_breathing",
+      "prompt": "Practicing breathing exercises can help you feel more grounded and calm. Let's try the 4-7-8 breathing exercise: inhale through your nose for 4 counts, hold your breath for 7 counts, exhale through your mouth for 8 counts. Repeat this exercise 4 times in a row.",
+      "meta": {
+        "breathing exercise": "4-7-8"
+      }
+    },
+    {
+      "name": "practice_awareness",
+      "prompt": "Practicing awareness can help you become more mindful of your thoughts and feelings. Take a few minutes every day to sit quietly and observe your thoughts without judgment. When you notice negative self-talk, try to reframe it in a more positive light. For example, if you catch yourself thinking 'I'm not good enough', try reframing it as 'I am doing the best I can and that is enough'. Let's start by practicing awareness for 5 minutes every day.",
+      "meta": {
+        "awareness number": 5
+      }
+    }
+  ],
+  "message": "Remember that you are not alone in this, and that it's okay to ask for help. I am here to support you in any way I can."
+}
